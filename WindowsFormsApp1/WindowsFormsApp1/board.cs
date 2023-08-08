@@ -23,6 +23,7 @@ namespace WindowsFormsApp1.Properties
 
         public void InitializeBoard()
         {
+            //ssssssss
              int b = 0;
             for(int r=0;r<8;r++)
             {
